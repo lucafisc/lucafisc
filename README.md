@@ -3,7 +3,6 @@
 
 - 🌱 I’m currently learning **C at 42 Berlin**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
