@@ -13,10 +13,9 @@
 
 ### 42 School Projects
 <div align="left">
-
+<a href="https://github.com/lucafisc/so_long">![So_long icon](https://i.imgur.com/MboIxvN.png)</a>
 <a href="https://github.com/lucafisc/minitalk">![Minitalk icon](https://i.imgur.com/KIzJ2vu.png)</a>
 <a href="https://github.com/lucafisc/push_swap">![Push_swap icon](https://i.imgur.com/XUaDkkE.png)</a>
 <a href="https://github.com/lucafisc/get_next_line">![Get_next_line icon](https://i.imgur.com/hOxMLtT.png)</a>
 <a href="https://github.com/lucafisc/ft_printf">![Minitalk icon](https://i.imgur.com/2SyDnUm.png)</a>
-
 </div>
