@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Luca</h1>
 <h3 align="center">A passionate developer based in Berlin</h3>
 
-- 🌱 I’m currently learning **C and C++ at 42 Berlin**
 
 <p align="left">
 </p>
