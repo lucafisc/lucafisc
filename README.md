@@ -61,7 +61,7 @@ Seeking opportunities in the field to apply and expand my skills. Let's build so
 - [Push swap](https://github.com/lucafisc/push_swap) sorting algorithm using limited operations.  
   
 
-- [Philosophers](https://github.com/lucafisc/philosophers) Dining philosophers problem coded in C with multithreading  
+- [Philosophers](https://github.com/lucafisc/philosophers) Dining philosophers problem coded in C with multithreading.  
   
 
 <br/>  
