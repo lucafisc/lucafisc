@@ -1,4 +1,4 @@
-### <div align="center">I'm Luca, a software engineer with background in architecture and design</div>  
+## <div align="center">I'm Luca 👋, a software engineer with background in architecture and design</div>  
   
 
 Seeking opportunities in the field to apply and expand my skills. Let's build something great together!  
