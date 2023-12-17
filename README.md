@@ -5,17 +5,12 @@ Seeking opportunities in the field to apply and expand my skills. Let's build so
   
 
 
-
-### 🏓  I’m currently working on [ft_transcendence](https://github.com/cbadura/transcendence)  
-- A one-page full-stack website designed for Pong enthusiasts.   
-  
-
-- Includes real-time chat groups and private messaging  💬, an interactive friends system 👤, user profiles with stats and achievements 🌟, a matchmaking system 🎲, custom themes and game modes 🎨!  
-  
-
-
-
 ### 🌐 List of personal projects  
+🏓 [ft_transcendence](https://github.com/cbadura/transcendence) - A one-page full-stack website designed for Pong enthusiasts.
+- Includes real-time chat groups and private messaging  💬, an interactive friends system 👤, user profiles with stats and achievements 🌟, a matchmaking system 🎲, custom themes and game modes 🎨!  
+- *Angular, Typescript, NestJS, Web Sockets, PostgreSQL.*  
+
+
 ✏️ [Live Draw](https://github.com/lucafisc/livedraw) - Real time colab drawing app.  
   
 
