@@ -6,6 +6,10 @@ Seeking opportunities in the field to apply and expand my skills. Let's build so
 
 
 ### 🌐 List of personal projects  
+🚲 [Delivery Fee Calculator](https://github.com/lucafisc/delivery-fee-calculator) - Calculate the delivery fee based on different parameters.
+- *Cypress, React, Typescript.*
+
+
 🏓 [ft_transcendence](https://github.com/cbadura/transcendence) - A one-page full-stack website designed for Pong enthusiasts.
 - Includes real-time chat groups and private messaging  💬, an interactive friends system 👤, user profiles with stats and achievements 🌟, a matchmaking system 🎲, custom themes and game modes 🎨!  
 - *Angular, Typescript, NestJS, Web Sockets, PostgreSQL.*  
