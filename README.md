@@ -6,6 +6,10 @@ Seeking opportunities in the field to apply and expand my skills. Let's build so
 
 
 ### 🌐 List of personal projects  
+
+🎬 [CMS Portfolio](https://github.com/lucafisc/kwp) - A mobile-first blogging platform with a headless WordPress backend.
+- *Next.js, TypeScript, GraphQL queries, Zod schema validation, SEO optimization, and image optimization with Cloudinary.*
+
 🚲 [Delivery Fee Calculator](https://github.com/lucafisc/delivery-fee-calculator) - Calculate the delivery fee based on different parameters.  It is built with a focus on accessibility and testing.
 - *Cypress, React, Typescript.*
 
