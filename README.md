@@ -11,24 +11,24 @@ Seeking opportunities in the field to apply and expand my skills. Let's build so
 - *Next.js, TypeScript, GraphQL queries, Zod schema validation, SEO optimization, and image optimization with Cloudinary.*
 
 🚲 [Delivery Fee Calculator](https://github.com/lucafisc/delivery-fee-calculator) - Calculate the delivery fee based on different parameters.  It is built with a focus on accessibility and testing.
-- *Cypress, React, Typescript, Zod.*
+- *Cypress, React, TypeScript, Zod.*
 
 
 🏓 [ft_transcendence](https://github.com/cbadura/transcendence) - A one-page full-stack website designed for Pong enthusiasts.
 - Includes real-time chat groups and private messaging  💬, an interactive friends system 👤, user profiles with stats and achievements 🌟, a matchmaking system 🎲, custom themes and game modes 🎨!  
-- *Angular, Typescript, NestJS, Web Sockets, PostgreSQL.*  
+- *Angular, TypeScript, NestJS, Web Sockets, PostgreSQL.*  
 
 
 ✏️ [Live Draw](https://github.com/lucafisc/livedraw) - Real time colab drawing app.  
   
 
-- *Next.js, React, Typescript, Socket.io, Express JS.*  
+- *Next.js, React, TypeScript, Socket.io, Express JS.*  
   
 
 📚 [Dictionary](https://github.com/lucafisc/dictionary) - mobile first app built with the dictionary API.  
   
 
-- *Typescript, React, Tailwind CSS. User auth and database available through Firebase.*  
+- *TypeScript, React, Tailwind CSS. User auth and database available through Firebase.*  
   
 
 📝 [CV Generator](https://github.com/lucafisc/cv-project) - Create, preview, customize, and save your CV.  
