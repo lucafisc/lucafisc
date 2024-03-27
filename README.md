@@ -11,7 +11,7 @@ Seeking opportunities in the field to apply and expand my skills. Let's build so
 - *Next.js, TypeScript, GraphQL queries, Zod schema validation, SEO optimization, and image optimization with Cloudinary.*
 
 🚲 [Delivery Fee Calculator](https://github.com/lucafisc/delivery-fee-calculator) - Calculate the delivery fee based on different parameters.  It is built with a focus on accessibility and testing.
-- *Cypress, React, Typescript.*
+- *Cypress, React, Typescript, Zod.*
 
 
 🏓 [ft_transcendence](https://github.com/cbadura/transcendence) - A one-page full-stack website designed for Pong enthusiasts.
