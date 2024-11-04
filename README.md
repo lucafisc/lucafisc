@@ -1,4 +1,4 @@
-## <div align="center">I'm Luca 👋</div>  
+## <div align="center">Hello, I'm Luca 👋</div>  
   
 
 I am a 💻 Full Stack Engineer passionate about building applications from end to end. 🚀
